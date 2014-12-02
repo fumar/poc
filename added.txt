@@ -3,3 +3,6 @@ mvn archetype:generate -DgroupId=com.test -DartifactId=NumberGenerator -Darchety
 https://github.com/fumar/poc.git
 
 testing aagin
+
+
+final testing .. checking build
