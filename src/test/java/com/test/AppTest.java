@@ -11,7 +11,7 @@ public class AppTest
     extends TestCase
 {
 
-// added some changes
+// added some changes testing autometic build
 
     /**
      * Create the test case
